@@ -74,13 +74,14 @@
 /* Site Footer
  * ============================================== */
     .footer {
-        min-height: 200px;
+        min-height: 100px;
         background-color: $brand-color;
         padding-bottom: 3em;
+        padding-top: 6em;
         margin: auto;
         font-size: 12px;
         font-family: Open Sans;
-        color: #959595;
+        color: #FFF;
     }
 
 /* Individual Posts
