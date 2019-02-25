@@ -15,8 +15,8 @@
     }
 
 
-    .site-header a {color: #FFF}; 
-    .site-header a h1:hover {color: black}; 
+    .site-header a, a h1 {color: #FFF}; 
+    .site-header a:hover, a h1:hover {color: black}; 
 
     .site-header h1 {
         display: block;
