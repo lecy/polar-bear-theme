@@ -1,7 +1,7 @@
 /* Site Header
  * ============================================== */
     .site-header {
-        min-height: 450px;
+        min-height: 550px;
         background-color: $brand-color;
         background-image: url('');
         background-size: cover;
@@ -15,7 +15,7 @@
     }
 
 
-    .site-header a, a h1:hover {color: #FFF};
+    .site-header a, a h1:hover {color: black};
 
     .site-header h1 {
         display: block;
